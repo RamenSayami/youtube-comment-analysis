@@ -1,0 +1,577 @@
+[
+    {
+        "text": "Nice explanation how to use naive Bayes for SA \ud83d\udc4dpl . Try to share use of different machine learning algorithms with more accuracy performance...",
+        "polarity": 0.2,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Very well explained! Thank you so much for this video! Can you please explain how did you reach the 1420 value in data transformation?",
+        "polarity": 0.25,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Great video! I wanted to know if we can use other classification algorithms such as KNN/XG-boost/decision tree/random forest instead of naive bayes? I mean if I keep the code unchanged till the data cleaning part and then change the code according to the different classifier algorithms,  will it work? I am not very concerned about accuracy here, I just want to know if it will work or not...if it does, how much do I need to change in the code section if I use the other above mentioned algorithms? please help.",
+        "polarity": 0.023749999999999993,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Thank you sir for this detailed informative video. All the explanations are very much helpful to us. Thanks a lot",
+        "polarity": 0.2866666666666667,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Crisp explanation, loved it <3",
+        "polarity": 0.65,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Good insights about business and data science. Good Job !!\nLooking forward to more videos, cheers!",
+        "polarity": 0.775,
+        "sentiment": "positive"
+    },
+    {
+        "text": "I'm inspired by you. I'm pretty sure you will be more successful in the upcoming days. keep posting videos about data science like ML AN DL. FROM Pakistan",
+        "polarity": 0.5,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Can you''l please release a video on how to sentiment as well as emotion analysis please\nand also an end to end project on Time Series Univariate and multivariate.Thanks",
+        "polarity": 0.0,
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Great Video!!! Much Helpful for Data Science insights and Application...Keep Posting more videos :)",
+        "polarity": 0.55,
+        "sentiment": "positive"
+    },
+    {
+        "text": "This was helpful. Very well explained.",
+        "polarity": 0.2,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Hey guys!! Glad to see such amazing feedback on this ML Project\ud83e\udd17 Need your support in reaching out to more learners by subscribing to my channel \ud83d\ude42 Also, join me on my Skillcate Discord Server:  https://discord.gg/GyMBfD4ER5. Let's talk Machine Learning \u2764\u2764",
+        "polarity": 0.4,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Hi thats a great leacture.\ni have a query while building my own sentiment model I am having issue with how to deal with the such sentence \"cell resource not failed and cell got connected\" now this is somehow positive one but I got negative sentiment because it has some negative terms.\nis there any better way to do this",
+        "polarity": 0.2221590909090909,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Hi, I replicated this code for a different analysis. Where I used a relative training data for my model. At the end I got a really low Model accuracy which was as low as 37%. What can i do to have a higher accuracy",
+        "polarity": 0.05,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Bro Your Video really save me. I really need to build a basic sentimental model for my presentation. Your video really helps me because I have no AI, ML experience. Thank Great video.",
+        "polarity": 0.19166666666666668,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Hi.  I tired to put in a comment yesterday but looks likes it didn't post.  Let me try again.\nI Love this video.  I like the way it is simple and easy to follow.  I loved the pickle file concept.  I wasn't aware of that!\nHere is the question / issue I am having.\nWhen I run the exact code for this notebook in Juypter notebook, I get different accuracy.  I get around .433.  All the code, data is exactly the same.  \n\nWhat could I be doing wrong?\n\nThanks!",
+        "polarity": 0.14965277777777777,
+        "sentiment": "positive"
+    },
+    {
+        "text": "very good class. thank you very much",
+        "polarity": 0.585,
+        "sentiment": "positive"
+    },
+    {
+        "text": "how did you calculate Aggregated customer feedback at the end for fresh reviews?",
+        "polarity": 0.3,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Thank you so much for this video!",
+        "polarity": 0.25,
+        "sentiment": "positive"
+    },
+    {
+        "text": "I would have rather used lemmatizer instead of stemming. Helps to keep meaning of the word being altered",
+        "polarity": 0.0,
+        "sentiment": "neutral"
+    },
+    {
+        "text": "In the very last part. I wanted to know how many customers complained about particular issue like for example \"Restaurant staff being rude\" so how many related reviews were there about this..... Is that possible ??  @SKILLCATE",
+        "polarity": 0.07083333333333333,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Sure. We will. Thanks for the support!",
+        "polarity": 0.375,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Thanks Ishwari for your feedback. We love to hear from our learners :)\n\nWe reached to 1420 by hit-&-trial in this case. However, we could have also write an algorithm for parameter turning, but not in this case. Hope it helps! :-)",
+        "polarity": 0.45625,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Yes, of course you may use other classifiers. You will just need to replace Naive Bayes function with your desired classifier.",
+        "polarity": -0.2125,
+        "sentiment": "negative"
+    },
+    {
+        "text": "\u00a0@skillcate\u00a0 yes it worked...thank you...keep up the good work \u2764\ufe0f",
+        "polarity": 0.7,
+        "sentiment": "positive"
+    },
+    {
+        "text": "\u00a0@akifzaman9269\u00a0 Wohoo!!! Do like, share & subscribe to us. This helps us in reaching out to more learners like yourself..\ud83d\ude0a",
+        "polarity": 0.5,
+        "sentiment": "positive"
+    },
+    {
+        "text": "You are most welcome",
+        "polarity": 0.65,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Thank you! Certainly committed to bring more ML projects. :)",
+        "polarity": 0.4047619047619048,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Thanks for your lovely wishes..\ud83d\ude42",
+        "polarity": 0.35,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Hi Lancelot! For your information, we have done a video on Emotion Detection recently (watch here:  youtu.be/uovo1s1barU ). \n\nDo like, share & subscribe to us. This helps us in reaching out to more learners like yourself..\ud83d\ude0a",
+        "polarity": 0.25,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Thanks for the support!",
+        "polarity": 0.25,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Thank you very much!",
+        "polarity": 0.325,
+        "sentiment": "positive"
+    },
+    {
+        "text": "In such cases, model needs to be provided with more contextual information. To begin with, you can explore different length word n-gram for BoW representation discussed in the video. Moving toward more complex approaches, you can explore  RNNs and LSTMs.",
+        "polarity": 0.13999999999999999,
+        "sentiment": "positive"
+    },
+    {
+        "text": "\u00a0@skillcate\u00a0 Thanks but for sentiment it does not required any labelled data but for LSTM it requires the data to be labelled and that is what I do not have!\nplease suggest me.",
+        "polarity": 0.25,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Hey Jerry, Good to hear you're implementing it on your side. Here's what you should do next:\n\n- Check your dataset: Make sure your dataset is labeled correctly and has enough examples for each sentiment category. Having a balanced dataset with enough representative samples can improve the model's performance.\n\n- Data preprocessing: Clean your text data by removing unnecessary symbols, punctuation, or special characters. Additionally, removing common words that don't carry much sentiment (known as stop words) can help focus on more meaningful words.\n\n- Feature selection: Instead of using only the Bag of Words representation, try other techniques like TF-IDF or word embeddings (e.g., Word2Vec, GloVe). These methods capture more contextual information and can enhance the model's understanding of the sentiment.\n\n- Model selection: Experiment with different algorithms besides Naive Bayes, such as Support Vector Machines (SVM) or Random Forest. Each algorithm has its own strengths and may perform better on different types of data.\n\n- Hyperparameter tuning: Adjust the settings of your model, known as hyperparameters, to find the best combination for your dataset. Use techniques like cross-validation or grid search to systematically explore different parameter values and select the ones that give the best results.\n\n- More training data: If possible, gather more labeled data for training your model. Having a larger dataset can provide more diverse examples and improve the model's ability to generalize.\n\n- Learn from mistakes: Analyze the errors made by your model. Look for patterns or common mistakes it makes. This analysis can help you identify areas for improvement and guide your next steps.\n\nRemember, achieving high accuracy can be challenging, especially for beginners. It's important to keep learning, experimenting, and iterating on your approach. Don't get discouraged by initial low accuracy, as it's a common part of the learning process.\n\nDo write me back for further specific questions you may have. We may have a 1:1 call too if it's required.",
+        "polarity": 0.1680668934240363,
+        "sentiment": "positive"
+    },
+    {
+        "text": "\u00a0@skillcate\u00a0 thank you so much for your response.. I have taken some classes since I posted this comment. All you have said confirms aligns with what i learnt. Basically I relieved my training data was highly imbalanced",
+        "polarity": 0.18,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Glad that it helped you Abdul!",
+        "polarity": 0.625,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Hey!! This may sound stupid, but can you try redoing the entire flow again? Ideally, nothing should change, if you followed the exact same steps offline in Jupyter notebook.\n\nAlso, double check these:\n1. if you have updated all paths to your local working directory.\n2. if you see 900 rows via shape function (4th code cell)",
+        "polarity": 0.09375000000000001,
+        "sentiment": "positive"
+    },
+    {
+        "text": "\u00a0@skillcate\u00a0 Thanks.  I redid and got the same accuracy as yours.  Now, I need to find what I did wrong earlier.  I will try to break it again and post as to what I messed up.  I want to say, I sort the list and that's what gave be less accuracy.  But I will try and let you know.  Thank again!",
+        "polarity": -0.10166666666666666,
+        "sentiment": "negative"
+    },
+    {
+        "text": "Awesome!! :-)",
+        "polarity": 0.75,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Hey Omkar, in the Google Drive Projects Folder, you will see a Sentiment_Predictor code file. We generated sentiment predictions using this code file on our Reviews_FreshDump (also there in the project folder). And then put a pivot to compute positive / negative sentiment predictions.\n\nTowards the end, I also mentioned 'Immediate Business Interventions'. That I figured out manually by going through reviews..\n\nProject folder here: https://drive.google.com/drive/folders/1KgvHQAaYwprkQJTTOf3TH8OJ_e3SbSGI",
+        "polarity": -0.03636363636363636,
+        "sentiment": "negative"
+    },
+    {
+        "text": "Thanks a ton Kamil for the feedback!! Do recommend us in your esteemed social/profession circle as well, so they may benefit too :-)",
+        "polarity": 0.40625,
+        "sentiment": "positive"
+    },
+    {
+        "text": "That's correct! Lemmatization sure retains the meaning of tokens. However, it is computationally expensive & may not always help in significantly improving accuracy. So, there's always a trade-off here. Appreciate your response around this..:-)",
+        "polarity": 0.21875,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Yes Abdul. You may do so by looking up for these keywords \"staff\" and \"rude\".\n\nYou may also use advance Text Analytics techniques, like: Topic Modelling, to know the themes being discussed in given customer reviews.",
+        "polarity": -0.3,
+        "sentiment": "negative"
+    },
+    {
+        "text": "Thank you very much, great explanation, can I help?  Master's thesis entitled Sentimental analysis  using  Word Sense Disambiguation",
+        "polarity": 0.275,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Thank you so much plz add more vedios on SA regarding different algorithms...",
+        "polarity": 0.2333333333333333,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Thanks for all your good work",
+        "polarity": 0.44999999999999996,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Can i use sentiment analysis as my major project in M. Tech?",
+        "polarity": 0.0625,
+        "sentiment": "positive"
+    },
+    {
+        "text": "How do we get the value 72% of accuracy in 2.1 file by mathematically?can you please explain?",
+        "polarity": 0.0,
+        "sentiment": "neutral"
+    },
+    {
+        "text": "this video is great, love it",
+        "polarity": 0.65,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Can u list the topics i need to learn to ace this project.plzz i have to prepare a model on this in a week",
+        "polarity": 0.0,
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Thank you..looking for more video\u2764\ufe0f",
+        "polarity": 0.5,
+        "sentiment": "positive"
+    },
+    {
+        "text": "great. thank you",
+        "polarity": 0.8,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Thank you so much:)",
+        "polarity": 0.35,
+        "sentiment": "positive"
+    },
+    {
+        "text": "It is showing me error that says- NameError: name 'X' is not defined in the Dividing dataset into training and test set part. Can you please tell me what did i do wrong?",
+        "polarity": -0.5,
+        "sentiment": "negative"
+    },
+    {
+        "text": "How did you calculate the value of max_ feature???",
+        "polarity": 0.0,
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Sir can you please tell, in your sentiment model how you Create the link of bow and classifier.. I do not get that thing. From where we get that link and how  and why we create that.",
+        "polarity": 0.0,
+        "sentiment": "neutral"
+    },
+    {
+        "text": "the corpus() part of  the post cleaning data is not  correct as  I'm running ur code   in colab they're  saying Review is not define constantly!! i have the drive pathway still the error is occuring constantly",
+        "polarity": 0.0,
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Sir, when I am trying to import dataset from drive, it is showing 'File not found error' whereas in my drive, the dataset file is downloaded. Please help me.",
+        "polarity": 0.0,
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Sir I am getting error that x is not defined can you please say why it is showing error like that...? Pls it's my major project 1 day left for submission pls help me sir ...",
+        "polarity": 0.03125,
+        "sentiment": "positive"
+    },
+    {
+        "text": "is it possible to create sentiment Analysis on php code?",
+        "polarity": 0.0,
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Great video , but i m getting error for Model fitting . Sir can u please help",
+        "polarity": 0.65,
+        "sentiment": "positive"
+    },
+    {
+        "text": "thank you sir",
+        "polarity": 0.0,
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Hey Zahraa! Please reach out to us at skillcate@gmail.com :)",
+        "polarity": 0.5,
+        "sentiment": "positive"
+    },
+    {
+        "text": "\u00a0@skillcate\u00a0 The email address is not working\ud83d\ude2d",
+        "polarity": 0.0,
+        "sentiment": "neutral"
+    },
+    {
+        "text": "For sure buddy. Thanks for your feedback. Do like, share & subscribe to us. This helps us in reaching out to more learners like yourself..\ud83d\ude0a",
+        "polarity": 0.39999999999999997,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Thanks for the appreciation Lancelot. Means a lot!! \ud83d\ude42",
+        "polarity": 0.3125,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Sure. Please reach out to us skillcate@gmail.com.",
+        "polarity": 0.5,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Dear Nagaswapna, the 2 X2 matrix you see at 18:45 is called a confusion matrix. For computing accuracy, we use this mathematical formula: Accuracy = (True Positive + True Negative) / (True Positive + True Negative + False Positive + False Negative). So, essentially, in our case, Accuracy = (67+64)/(67+64+38+11) = ~72.7%.\n\nYou may read more on Confusion Matrix here: https://en.wikipedia.org/wiki/Confusion_matrix\n\nHope this helps!! \ud83d\ude0a",
+        "polarity": -0.019819518716577566,
+        "sentiment": "negative"
+    },
+    {
+        "text": "Thanks a ton Samson for the feedback!! Keeps us motivated for sure <3",
+        "polarity": 0.6041666666666666,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Thanks for your interest Rishabh.  Sentiment analysis is a hot research area these days. In general, you would like to learn about Feature encodings and representation  and Classifiers- Naive bayes, decision trees, RNNs, LSTM etc.  For each use-case provided to you, ensure why should we choose one strategy  over other.",
+        "polarity": 0.015000000000000003,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Hi Achol, for your information we have recently launched couple of new project, one on: Age, Gender & Emotion Detection (youtu.be/uovo1s1barU) and second on: Credit Scoring (youtu.be/8jzvzRo3Ij0&t)..\ud83d\ude0a Keep learning!!",
+        "polarity": 0.04545454545454545,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Hi Banka, for your information we have recently launched couple of new project, one on: Age, Gender & Emotion Detection (youtu.be/uovo1s1barU) and second on: Credit Scoring (youtu.be/8jzvzRo3Ij0&t)..\ud83d\ude0a",
+        "polarity": 0.04545454545454545,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Ahh. You most likely have missed to read data in X (as shown in cell 12) or have used lower case (x) character in place of upper case. Could you please verify?",
+        "polarity": 0.16666666666666666,
+        "sentiment": "positive"
+    },
+    {
+        "text": "max_feature is one of the \"hyperparameter\" which represents dimensions of space in which each review is represented. There are many approaches available to select the feature dimension. In our video, to keep things simple, we selected max_feature through hit-and-trail (17:00).  If you want to learn more about selecting feature dimension in general, please refer to  https://machinelearningmastery.com/dimensionality-reduction-for-machine-learning/.",
+        "polarity": 0.29,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Hi Maitri. During the training, we obtain bag of words and classifier (Refer to section Model Building in video) which we then save so that we can use both of them in prediction script  to make inferences on unseen test cases.",
+        "polarity": 0.0,
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Hey Pranita, could you please write to me at skillcate@gmail.com along with your error message. This sounds weird though..",
+        "polarity": -0.5,
+        "sentiment": "negative"
+    },
+    {
+        "text": "Hi Mohit, Could you please ensure that you drive is mounted and path is set to the directory where  your colab notebook file is located?",
+        "polarity": 0.0,
+        "sentiment": "neutral"
+    },
+    {
+        "text": "\u00a0@skillcate\u00a0 yeah drive is mounted but still it is showing error.",
+        "polarity": 0.0,
+        "sentiment": "neutral"
+    },
+    {
+        "text": "\u00a0@mohitmayank5524\u00a0 Alright. No problem. There is surely some catch here. 1. Could you please check if the file name is correct? 2. If it is, Run command \"!ls\" in your notebook and see if you are seeing the dataset file there.",
+        "polarity": 0.625,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Dear Kavya, first of all apologies for this delay in our response here..\n\nIdeally, this shouldn't have happened. Did you double-check if you are using upper-case? We are using the capital letter \"X\" here.\n\nHope this helps. Keep learning :)",
+        "polarity": 0.5499999999999999,
+        "sentiment": "positive"
+    },
+    {
+        "text": "\u00a0@skillcate\u00a0 okay thanks for your reply",
+        "polarity": 0.35,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Check out this documentation: https://php-ml.readthedocs.io/en/latest/",
+        "polarity": 0.0,
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Hey Prajakta, what is the error message you are getting?",
+        "polarity": 0.0,
+        "sentiment": "neutral"
+    },
+    {
+        "text": "\u00a0@skillcate\u00a0 Sir, I m getting error in Model fitting for classifier.fit(features, label). Error is: not supported between instances of 'str' and 'float'.\n\nI divided the dataset in train and test and used the train dataset as parameter in classifier.fit()",
+        "polarity": 0.5,
+        "sentiment": "positive"
+    },
+    {
+        "text": "\u00a0@prajacta7444\u00a0 You possibly are using a different dataset and have conflicting str and float datatypes being used. Could you please try converting features and labels to str datatype before calling the fit function?",
+        "polarity": 0.13333333333333333,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Hi Hashir, for your information we have recently launched couple of new project, one on: Age, Gender & Emotion Detection (youtu.be/uovo1s1barU) and second on: Credit Scoring (youtu.be/8jzvzRo3Ij0&t)..\ud83d\ude0a\n\nDo like, share & subscribe to us. This helps us in reaching out to more learners like yourself!!!",
+        "polarity": 0.27823153409090906,
+        "sentiment": "positive"
+    },
+    {
+        "text": "\u00a0@skillcate\u00a0 can you please make sentiment analysis on 3 sentiments (positive, neutral and negative)",
+        "polarity": -0.03636363636363636,
+        "sentiment": "negative"
+    },
+    {
+        "text": "\u00a0@hashirsheikh8386\u00a0 Sure. We will soon be doing a separate project on it. \ud83d\ude42",
+        "polarity": 0.5,
+        "sentiment": "positive"
+    },
+    {
+        "text": "\u00a0@skillcate\u00a0 thankyou sir I'm waiting for it \ud83d\ude42",
+        "polarity": 0.0,
+        "sentiment": "neutral"
+    },
+    {
+        "text": "My clg gave me a project on sentimental analysis of restaurant reviews .can you help me for this..",
+        "polarity": -0.25,
+        "sentiment": "negative"
+    },
+    {
+        "text": "what about Neutral reviews ? \ud83d\ude01",
+        "polarity": 0.0,
+        "sentiment": "neutral"
+    },
+    {
+        "text": "where is the link to the data set",
+        "polarity": 0.0,
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Please I need proposal on sentiment analysis system to be submitting coming Monday",
+        "polarity": 0.0,
+        "sentiment": "neutral"
+    },
+    {
+        "text": "How can I link it with node JS backend",
+        "polarity": 0.0,
+        "sentiment": "neutral"
+    },
+    {
+        "text": "hello sir can you help me please!",
+        "polarity": 0.0,
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Can we run this on Jupyter notebook?",
+        "polarity": 0.0,
+        "sentiment": "neutral"
+    },
+    {
+        "text": "i can't run in saving bow path",
+        "polarity": 0.0,
+        "sentiment": "neutral"
+    },
+    {
+        "text": "i have a small project can any one help plz",
+        "polarity": -0.25,
+        "sentiment": "negative"
+    },
+    {
+        "text": "I am getting error as :  input contain NaN\nwhen : \n after running,\n'from sklearn.naive_bayes import GaussianNB\r\nclassifier=GaussianNB()\r\nclassifier.fit(X_train,y_train)'\n\nmy data does not contain any Nan values though, can u please help?",
+        "polarity": 0.0,
+        "sentiment": "neutral"
+    },
+    {
+        "text": "for i in range (0,899):\r\n    review = re.sub('[^a-zA-Z]',' ', data['Review'][i])\r\n    review = review.lower()\r\n    review = review.split()\r\n    review = [ps.stem(word) for word in review if not word in set (all_stopwords)]\r\n    review = ' '.join(review)\r\n    corpus.append(review)\n\n\nwhen i run the above this code on jupyter notebook it is showing keyerror",
+        "polarity": 0.0,
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Dear Paidimarri, thank you for your comment & apologies for the delay in response. You can reach out to us at skillcate@gmail.com with the details on your requirements. Happy to help :-)",
+        "polarity": 0.65,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Well seriously, who are these people writing neutral reviews :p. Jokes apart, recently I did Sentiment Analysis on Live Tweets. This project has three label: + - ~ (link: youtu.be/YdRTs0LmiuU)\n\nI have done few more Sentiment Analysis Projects: one, on Movie Reviews with Neural Network (youtu.be/oWo9SNcyxlI) and second, on Amazon Reviews with Sklearn Pipeline (youtu.be/lKAdxN0qrgk) - where you shall get multi-label classification flavour.\n\nThis current project is basically on Binary Classification. However, you may define 3 (+ - ~) labels, by using a training dataset that has multi-labels (ex: rating on a scale 1-5). R\n\nHappy learning :)",
+        "polarity": 0.1558922558922559,
+        "sentiment": "positive"
+    },
+    {
+        "text": "\u00a0@skillcate\u00a0 Thanks a lot :)",
+        "polarity": 0.35,
+        "sentiment": "positive"
+    },
+    {
+        "text": "\u00a0@skillcate\u00a0 Hey! In the Live Twitter sentiment analysis project, would it work for other languages also ? like \"Sinhala\" which is the mother language in Sri Lanka \ud83d\ude02",
+        "polarity": 0.005681818181818177,
+        "sentiment": "positive"
+    },
+    {
+        "text": "\u00a0@rusiraliyanage6643\u00a0 Yes sure you can. For this you may use TextBlob Translate Method to first translate the 'Sinhala' tweets to English, and then feed them to NLTK Vader (Vader is not multi-lingual, handles only English for now). Sharing the script here to translate:\n\nfrom textblob import TextBlob as TB\ntweet = '\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0dc3\u0dd2\u0da7 \u0d86\u0dba\u0dd4\u0db6\u0ddd\u0dc0\u0db1\u0dca'\ntranslated_tweet = TB(tweet).translate(from_lang=u'si', to=u'en')\ntranslated_tweet.sentiment",
+        "polarity": 0.15,
+        "sentiment": "positive"
+    },
+    {
+        "text": "And with this script, you may call Vader on the translated tweet:\n\nSentimentIntensityAnalyzer().polarity_scores(str(translated_tweet))",
+        "polarity": 0.0,
+        "sentiment": "neutral"
+    },
+    {
+        "text": "\u00a0@skillcate\u00a0 Thank you so much :)",
+        "polarity": 0.35,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Google Drive Link is provided in the description part, Edwin!!",
+        "polarity": 0.0,
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Dear Mohammed, , thank you for your comment & apologies for the delay in response. You can reach out to us at skillcate@gmail.com with the details on your requirements. Happy to help :-)",
+        "polarity": 0.65,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Dear Emran, that's an excellent query!!\n\nWe have recently done a ML Project, where we have deployed Model Serialized .pkl file using Flask. Suggest you to go through it to have further clarity on Deployment side. \n\nHope this helps. Keep learning :-)",
+        "polarity": 0.375,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Hi Aaisha, I assume by Jupyter notebook, you mean on Jupiter notebook in your local machine. Then, answer is yes. If your machine doesn't have gpu, it may just  take longer to train.",
+        "polarity": -0.15625,
+        "sentiment": "negative"
+    },
+    {
+        "text": "hey faridz, double check if you set your working directory correctly.",
+        "polarity": 0.0,
+        "sentiment": "neutral"
+    },
+    {
+        "text": "HI Siddu, for sure we can! You can write to us at skillcate@gmail.com with the details on your requirements. Happy to help :-)",
+        "polarity": 0.6416666666666667,
+        "sentiment": "positive"
+    },
+    {
+        "text": "Dear Viraj, sorry to hear that! Can you confirm if you are running this project in Google Colab or local machine?\n\nAlso, are you using the same dataset from the toolkit or some different?\n\nWill get your issue resolved at the earliest possible..",
+        "polarity": -0.125,
+        "sentiment": "negative"
+    },
+    {
+        "text": "Dear Harsh, try using this snippet instead:\n\nfor i in range(0, 900):\n  review = re.sub('[^a-zA-Z]', ' ', dataset['Review'][i])\n  review = review.lower()\n  review = review.split()\n  review = [ps.stem(word) for word in review if not word in set(all_stopwords)]\n  review = ' '.join(review)\n  corpus.append(review)",
+        "polarity": -0.2,
+        "sentiment": "negative"
+    }
+]

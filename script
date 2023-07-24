@@ -1,0 +1,14 @@
+Web Scrapping:
+Youtub Comments using library
+https://github.com/egbertbouman/youtube-comment-downloader
+
+pip install youtube-comment-downloader
+
+youtube-comment-downloader --url https://www.youtube.com/watch?v=MZ8giCWDcyE --output mkbhd.json
+
+
+
+youtube-comment-downloader --url https://www.youtube.com/watch?v=ScMzIvxBSi4 --output ScMzIvxBSi4.json
+youtube-comment-downloader --url https://www.youtube.com/watch?v=zwR6M5zpnWs -p --output youtube2.json
+
+
